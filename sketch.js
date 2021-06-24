@@ -22,7 +22,6 @@ function preload() {
 
 function setup() {
   createCanvas(800, 400);
-  rectMode(CENTER);
 }
 
 function draw() {
